@@ -8,7 +8,7 @@
     - Linux
 
     ### Este job tem um "Plugin Customizado" para criar Container.
-  executionEnabled: true
+  executionEnabled: false
   group: Docker
   id: fb482aea-2757-4537-a79a-41f064be458b
   loglevel: INFO
